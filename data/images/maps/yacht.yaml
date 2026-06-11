@@ -1,0 +1,18 @@
+slug: yacht
+name: Yacht
+blueprints:
+  - name: Basement
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/IhShaYBfZRTl6gUbifABA/47208fb89c1cfff490067fd4eceaaf9c/r6-maps-yacht-blueprint-1.jpg
+  - name: Ground
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7uBEtPmxUn6FIUevrSff6k/3e4f0601610f8b50eddbc70cf978d3d5/r6-maps-yacht-blueprint-2.jpg
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4fc6ERcX7GO9VFnadR7qtC/5dfddd14005ae50994d6cc0663da4a8c/r6-maps-yacht-blueprint-3.jpg
+  - name: 2nd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4n4a6mhbDRojNiA1uKDd0J/6ff716ed3bf8249ed4b8960f55b9bbc1/r6-maps-yacht-blueprint-4.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2d1eywMOVU2y9mZVbALqbE/fcde507df7b6053bb8daa47b732f5090/r6-maps-yacht-blueprint-5.jpg

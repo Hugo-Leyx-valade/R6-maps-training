@@ -1,0 +1,12 @@
+slug: theme-park
+name: Theme Park
+blueprints:
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/17vQ6v4og4uKWZ0YzG2Ja5/c2e4733d954bdd95801235e53ff47d6c/r6-maps-themepark-blueprint-2.jpg
+  - name: 2nd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/MgXhGys4DRlJ893gGsp2m/ce12985365be6bc1544e72202e704383/r6-maps-themepark-blueprint-3.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4LsnAuElC7lVo8H3HYXvSr/a326abb326eb1b64edb7a957001a625d/r6-maps-themepark-blueprint-4.jpg

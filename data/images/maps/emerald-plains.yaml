@@ -1,0 +1,12 @@
+slug: emerald-plains
+name: Emerald Plains
+blueprints:
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6IPo90GFnnPbW4ri4arLND/066cafe4e7a2d36c8271570cd6047c50/r6-maps-emeraldplains-blueprint-1.jpg
+  - name: 2nd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7uZShb7RUrKPxmdhs9nwFq/e84d6ba647344e5b9a86c09e1c4bb289/r6-maps-emeraldplains-blueprint-2.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5gCmYTC5VTYuGG4T499nQ9/cb239179bcc029ea961a0f9d1d125fa4/r6-maps-emeraldplains-blueprint-3.jpg

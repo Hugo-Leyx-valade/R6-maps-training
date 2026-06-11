@@ -1,0 +1,15 @@
+slug: house
+name: House
+blueprints:
+  - name: Basement
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5CIH5XwkMXY6xuacmJEOK7/3608c604e4e1b6e819005ffdc409121b/r6-maps-house-blueprint-1.jpg
+  - name: Ground
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1SdjkrdMoeWcDUjjbpFhF1/c3954b71dbaefa4129aac2e0fd5e5bfe/r6-maps-house-blueprint-2.jpg
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ZWHlGOaXqCBiahA0tspF8/d3133aee515e4c16b6660828b17f4861/r6-maps-house-blueprint-3.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2p05k8xDs0Az7q8zmbmDZm/ecf10dcc088e11672a670b2de28ca97f/r6-maps-house-blueprint-4.jpg

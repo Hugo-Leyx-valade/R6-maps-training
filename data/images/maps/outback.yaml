@@ -1,0 +1,12 @@
+slug: outback
+name: Outback
+blueprints:
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/66RRI7vfHhSPVbmx7oVxsm/14bc3f49e7406b4552be9e5fff824ae6/r6-maps-outback-blueprint-1.jpg
+  - name: 2nd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7jjNcQmgbqhjtZDHNttLha/a16a1fb966da20b802d75630ecd2e7d3/r6-maps-outback-blueprint-2.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3gAUdgvuYfrVPahwetBbGZ/661ee97059469bfcfd46b2c6c6aefc29/r6-maps-outback-blueprint-3.jpg

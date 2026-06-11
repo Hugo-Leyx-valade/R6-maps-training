@@ -1,0 +1,1597 @@
+[
+  {
+    "id": "8ab868ab-bba4-4270-87df-edf820c5587e",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Church Hallway",
+    "aliases": [],
+    "x": 53.66847826086957,
+    "y": 50.75165363800361
+  },
+  {
+    "id": "2539443a-2ea4-488e-afe7-1a6804342d71",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Blue",
+    "aliases": [],
+    "x": 62.5,
+    "y": 47.14371617558629
+  },
+  {
+    "id": "4501a885-253f-445d-835d-97524894203a",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Blue stairs",
+    "aliases": [],
+    "x": 74.72826086956522,
+    "y": 44.978953698135896
+  },
+  {
+    "id": "b3ca6bfb-e3b4-4a81-8e58-619b946c08fb",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Ladder",
+    "aliases": [],
+    "x": 64.40217391304348,
+    "y": 73.12086590499098
+  },
+  {
+    "id": "2afda468-d8cb-49ad-b78a-0bce62afc793",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Bike",
+    "aliases": [],
+    "x": 46.059782608695656,
+    "y": 47.86530366806975
+  },
+  {
+    "id": "d087e0c5-f175-40e6-9338-29a2fb6b9ca0",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Church",
+    "aliases": [],
+    "x": 52.03804347826087,
+    "y": 29.344558027660856
+  },
+  {
+    "id": "8f0d1aee-cbff-452b-ac96-e760d6612cd7",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Bike Hallway",
+    "aliases": [],
+    "x": 46.18528610354223,
+    "y": 36.31961259079903
+  },
+  {
+    "id": "1874f24c-5b73-4c93-8b70-de2df02b46e5",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Main Stairs",
+    "aliases": [],
+    "x": 43.869209809264305,
+    "y": 15.980629539951574
+  },
+  {
+    "id": "63f4614a-7da6-4fd2-b751-448c642cd850",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Armory",
+    "aliases": [],
+    "x": 60.3542234332425,
+    "y": 21.307506053268767
+  },
+  {
+    "id": "c73e3e97-1c7b-4723-b462-6671144ce994",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Trash",
+    "aliases": [],
+    "x": 71.66212534059946,
+    "y": 15.254237288135593
+  },
+  {
+    "id": "f8838975-8329-442d-85bd-f2077718f22e",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Tunnel",
+    "aliases": [],
+    "x": 62.39782016348774,
+    "y": 1.694915254237288
+  },
+  {
+    "id": "7ba1c3af-0578-4240-bbf4-7685e7aee0f1",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Graffiti",
+    "aliases": [],
+    "x": 34.19618528610354,
+    "y": 19.612590799031477
+  },
+  {
+    "id": "923a2a84-3b9c-4363-9838-ec87f24bd4c8",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Parking",
+    "aliases": [],
+    "x": 49.182561307901906,
+    "y": 77.72397094430993
+  },
+  {
+    "id": "9574ff12-5338-4c75-ab0c-37ce111b27e9",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "813b979e-eb40-4602-a07f-27c853aa47c6",
+    "name": "Kennels",
+    "aliases": [],
+    "x": 77.3841961852861,
+    "y": 71.42857142857143
+  },
+  {
+    "id": "06fde7dd-d68b-437b-ad96-92a98c3f1945",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Garage",
+    "aliases": [],
+    "x": 65.39509536784742,
+    "y": 71.91283292978208
+  },
+  {
+    "id": "1b49920e-f7b0-4e08-a34f-bb518646e132",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Lounge",
+    "aliases": [],
+    "x": 64.03269754768392,
+    "y": 54.47941888619855
+  },
+  {
+    "id": "23719796-5168-4c92-9dbd-966dda6ef54f",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Storage",
+    "aliases": [],
+    "x": 77.52043596730245,
+    "y": 53.26876513317191
+  },
+  {
+    "id": "714e0e83-ca7c-46eb-9adf-621aca58ee5f",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Blue Stairs",
+    "aliases": [],
+    "x": 75.34059945504087,
+    "y": 45.036319612590795
+  },
+  {
+    "id": "b6c81530-2a71-4dfb-8d02-1ba46ffe3797",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Stock",
+    "aliases": [],
+    "x": 66.07629427792916,
+    "y": 36.56174334140436
+  },
+  {
+    "id": "2779a192-646f-4be9-b085-4d5f15270128",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Stage",
+    "aliases": [],
+    "x": 58.719346049046315,
+    "y": 39.22518159806295
+  },
+  {
+    "id": "a0060a28-d0a3-48d1-8891-24cae8bf5737",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Lobby",
+    "aliases": [],
+    "x": 58.44686648501363,
+    "y": 56.416464891041166
+  },
+  {
+    "id": "74b81762-327c-4fa6-b94c-e921f7c75332",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Porch",
+    "aliases": [],
+    "x": 49.04632152588556,
+    "y": 56.17433414043583
+  },
+  {
+    "id": "0a6dc4f5-707e-46b9-946c-da0d881b5516",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Bar",
+    "aliases": [],
+    "x": 46.73024523160763,
+    "y": 42.615012106537534
+  },
+  {
+    "id": "e47d90ea-0593-4bca-ac37-7df2eda64a13",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Kitchen Hallway",
+    "aliases": [],
+    "x": 51.63487738419619,
+    "y": 29.782082324455207
+  },
+  {
+    "id": "9f237a7c-595b-454c-87a1-68b03e6ce22e",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Kitchen",
+    "aliases": [],
+    "x": 52.17983651226158,
+    "y": 20.33898305084746
+  },
+  {
+    "id": "562327e8-981d-4e3a-b6ef-747ae17916db",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Kitchen entrance",
+    "aliases": [],
+    "x": 50.40871934604905,
+    "y": 10.411622276029057
+  },
+  {
+    "id": "0b0b9caf-5a16-4ba1-bc6a-131058ed2ded",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Main stairs",
+    "aliases": [],
+    "x": 45.91280653950954,
+    "y": 15.012106537530268
+  },
+  {
+    "id": "5b471cd0-921c-418e-b019-16660d42a0e3",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Toilets",
+    "aliases": [],
+    "x": 38.555858310626704,
+    "y": 28.087167070217916
+  },
+  {
+    "id": "9f653f19-5bd4-47e6-9c89-4c78d4f387e0",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Strip Hallway",
+    "aliases": [],
+    "x": 34.19618528610354,
+    "y": 35.1089588377724
+  },
+  {
+    "id": "3e540482-7849-49d2-9cb0-741b369bfbe7",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Strip Club",
+    "aliases": [],
+    "x": 29.01907356948229,
+    "y": 58.35351089588377
+  },
+  {
+    "id": "052c4dc8-5361-44f6-afe1-542476043c3b",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Changing",
+    "aliases": [],
+    "x": 33.37874659400545,
+    "y": 71.91283292978208
+  },
+  {
+    "id": "cb23f5d7-05b7-45ae-b433-ebfff0f5be09",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Side Entrance",
+    "aliases": [],
+    "x": 24.114441416893733,
+    "y": 72.88135593220339
+  },
+  {
+    "id": "97087d5a-321a-4787-afd2-5b11ab4d4eb6",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "312742bf-89b5-4026-9955-5f6655cc625f",
+    "name": "Junkyard Entrance",
+    "aliases": [],
+    "x": 21.117166212534062,
+    "y": 48.6682808716707
+  },
+  {
+    "id": "5d1e236e-c13d-4fdb-b565-db0c1ec02dea",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Catwalk",
+    "aliases": [],
+    "x": 62.67029972752044,
+    "y": 75.06053268765133
+  },
+  {
+    "id": "592ccb92-5f5d-4a83-95a9-6adb3ea3427b",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Garage Stairs",
+    "aliases": [],
+    "x": 64.03269754768392,
+    "y": 86.19854721549636
+  },
+  {
+    "id": "0d6a15cc-a0d7-4869-8a26-8b18097ac506",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "CCTV",
+    "aliases": [
+      "Server"
+    ],
+    "x": 67.0299727520436,
+    "y": 54.47941888619855
+  },
+  {
+    "id": "fc5a739a-74e3-4461-a99c-faf8f551bfd9",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Red Stairs",
+    "aliases": [],
+    "x": 73.56948228882834,
+    "y": 37.04600484261501
+  },
+  {
+    "id": "61026293-4634-4b3b-8bbb-4d2fe7c18d26",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Balcony",
+    "aliases": [],
+    "x": 77.65667574931881,
+    "y": 51.81598062953995
+  },
+  {
+    "id": "875ee0be-3af0-48b1-8267-54e09829bd9b",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Cash",
+    "aliases": [],
+    "x": 64.98637602179836,
+    "y": 38.7409200968523
+  },
+  {
+    "id": "4bbb2e9c-e3e9-4467-aeae-c9ef841159fb",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Porch",
+    "aliases": [],
+    "x": 50.13623978201635,
+    "y": 60.290556900726386
+  },
+  {
+    "id": "64976ec6-601d-4738-a288-7dd28acf8125",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Construction",
+    "aliases": [],
+    "x": 57.49318801089919,
+    "y": 43.583535108958834
+  },
+  {
+    "id": "12ac593f-1cbc-41c7-b67f-a04717bf054e",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Bedroom",
+    "aliases": [],
+    "x": 50.40871934604905,
+    "y": 42.3728813559322
+  },
+  {
+    "id": "7270a09e-8663-4b6d-9020-27ba06aefcc4",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Gym",
+    "aliases": [],
+    "x": 43.05177111716621,
+    "y": 42.857142857142854
+  },
+  {
+    "id": "3727a019-1200-42c1-a0f5-842791f6ea2d",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Jacuzzy",
+    "aliases": [],
+    "x": 34.05994550408719,
+    "y": 40.43583535108959
+  },
+  {
+    "id": "22abe284-24af-4c01-9395-a64a857413d9",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Strip Roof",
+    "aliases": [],
+    "x": 26.83923705722071,
+    "y": 59.80629539951574
+  },
+  {
+    "id": "d505c01c-b27e-4754-9c3e-c42fe065cb31",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Gym Hallway",
+    "aliases": [],
+    "x": 41.41689373297003,
+    "y": 31.961259079903147
+  },
+  {
+    "id": "42398e75-dbb0-4d1e-9f87-abb582c3c7b1",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Bedroom Hallway",
+    "aliases": [],
+    "x": 45.776566757493185,
+    "y": 25.907990314769975
+  },
+  {
+    "id": "f25df36b-05a1-4f8e-b12c-27b9671e94b5",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Main Stairs",
+    "aliases": [],
+    "x": 46.18528610354223,
+    "y": 15.980629539951574
+  },
+  {
+    "id": "4fb2239e-325e-49cc-9ef5-452a3d54bebf",
+    "mapId": "9fcf6120-1283-46d3-ad62-2c647c0aa0bb",
+    "floorId": "a8b8d28b-9975-4d0c-a7fb-6fd37ceb5ab9",
+    "name": "Office",
+    "aliases": [],
+    "x": 54.223433242506815,
+    "y": 16.94915254237288
+  },
+  {
+    "id": "a24571c4-e9da-42a4-a1fb-baba1c97c8ad",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Freezer",
+    "aliases": [],
+    "x": 45.91280653950954,
+    "y": 60.53268765133172
+  },
+  {
+    "id": "d593d36f-4841-4a64-95d3-a4d26442a9cc",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Freezer stairs",
+    "aliases": [],
+    "x": 41.55313351498637,
+    "y": 70.46004842615012
+  },
+  {
+    "id": "3b8a961b-62f2-4154-81eb-328e7b8a35eb",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Storage",
+    "aliases": [],
+    "x": 54.495912806539515,
+    "y": 71.1864406779661
+  },
+  {
+    "id": "caee6a77-2fec-487d-9c1d-34ca6559ab88",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Laundry stairs",
+    "aliases": [],
+    "x": 57.49318801089919,
+    "y": 67.55447941888619
+  },
+  {
+    "id": "80dd36bd-1841-4bc3-87d6-0d768229d6c9",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Laundry",
+    "aliases": [],
+    "x": 52.45231607629428,
+    "y": 60.53268765133172
+  },
+  {
+    "id": "6ea697c7-01ef-4635-8bd7-d6abd03ba09b",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Closet",
+    "aliases": [],
+    "x": 53.54223433242507,
+    "y": 54.9636803874092
+  },
+  {
+    "id": "5f3b1262-f7ec-454f-acc0-b566e5284df0",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Supply",
+    "aliases": [],
+    "x": 54.90463215258855,
+    "y": 48.91041162227603
+  },
+  {
+    "id": "bbb3d87a-9677-4875-b18d-1498ab4faf14",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Basement corridor",
+    "aliases": [],
+    "x": 50.817438692098094,
+    "y": 50.363196125908
+  },
+  {
+    "id": "8fe7cf70-e560-4bd9-bb7b-0daf8f6bfb7b",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Electric",
+    "aliases": [],
+    "x": 56.539509536784735,
+    "y": 40.67796610169492
+  },
+  {
+    "id": "4f1e61d3-0a4b-4296-a4f9-b53875bb4c15",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Blue",
+    "aliases": [],
+    "x": 60.6267029972752,
+    "y": 38.7409200968523
+  },
+  {
+    "id": "c27f270a-ea88-40a1-926a-f3fea0d8d3a3",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Bunker",
+    "aliases": [],
+    "x": 64.85013623978202,
+    "y": 41.162227602905574
+  },
+  {
+    "id": "70792c5b-5314-4b23-8316-2137d913549b",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Tower Stairs",
+    "aliases": [],
+    "x": 53.81471389645777,
+    "y": 26.39225181598063
+  },
+  {
+    "id": "d57846d4-9131-4908-8080-35049357813c",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "f5a6139f-019a-4ae5-bbc6-5e0641532435",
+    "name": "Pillar",
+    "aliases": [],
+    "x": 51.49863760217984,
+    "y": 38.01452784503632
+  },
+  {
+    "id": "4cf26598-f18d-4985-8eda-7792d6aeaf6d",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Small stairs",
+    "aliases": [],
+    "x": 24.52316076294278,
+    "y": 54.23728813559322
+  },
+  {
+    "id": "c4d596ec-52f9-4baf-bbc8-a1f8e64ab6e6",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "small tower",
+    "aliases": [],
+    "x": 26.294277929155314,
+    "y": 64.16464891041163
+  },
+  {
+    "id": "1787b00d-3f52-4603-a584-399afd14d571",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Shower corridor",
+    "aliases": [],
+    "x": 34.332425068119896,
+    "y": 71.42857142857143
+  },
+  {
+    "id": "04a12941-8e57-4818-a197-aa33771892a1",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "shower",
+    "aliases": [],
+    "x": 34.19618528610354,
+    "y": 63.922518159806295
+  },
+  {
+    "id": "e5bc799f-6adb-416a-9634-9c9653596f65",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Dinner",
+    "aliases": [],
+    "x": 34.87738419618528,
+    "y": 53.26876513317191
+  },
+  {
+    "id": "561c0189-96db-4d4d-80e4-5be179f6da13",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Kitchen",
+    "aliases": [],
+    "x": 43.73297002724796,
+    "y": 53.26876513317191
+  },
+  {
+    "id": "189e842c-b7a9-43c9-b1f0-fe1c255020c6",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Security",
+    "aliases": [],
+    "x": 43.73297002724796,
+    "y": 61.98547215496368
+  },
+  {
+    "id": "f6b9db31-9c40-4f08-a769-c8940b9097a1",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Security corridor",
+    "aliases": [],
+    "x": 43.596730245231605,
+    "y": 67.31234866828088
+  },
+  {
+    "id": "d224b0ef-6f35-4e72-b21b-d3df4cd5e1fc",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "white stairs",
+    "aliases": [],
+    "x": 43.73297002724796,
+    "y": 70.94430992736078
+  },
+  {
+    "id": "f095fe94-b967-4e51-bcc5-570ccdb7aa0e",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Classroom",
+    "aliases": [],
+    "x": 51.49863760217984,
+    "y": 67.07021791767555
+  },
+  {
+    "id": "b2f07720-5e6d-45a3-a2c7-247967331e0f",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Lobby",
+    "aliases": [],
+    "x": 55.04087193460491,
+    "y": 63.68038740920097
+  },
+  {
+    "id": "edd706ac-0960-4fc4-96b5-ed74c4daa064",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Armory Stairs",
+    "aliases": [],
+    "x": 58.03814713896458,
+    "y": 66.82808716707022
+  },
+  {
+    "id": "06db85fe-1e1f-4d1b-87c0-929ca58cbcbe",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Garage",
+    "aliases": [],
+    "x": 61.58038147138964,
+    "y": 66.10169491525424
+  },
+  {
+    "id": "8937855e-ef08-4de1-86b3-dc89d3568cd7",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Meeting",
+    "aliases": [],
+    "x": 54.495912806539515,
+    "y": 48.91041162227603
+  },
+  {
+    "id": "108ba639-069e-42cf-acff-e2b670cd08cb",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Kitchen Corridor",
+    "aliases": [],
+    "x": 48.228882833787466,
+    "y": 41.88861985472155
+  },
+  {
+    "id": "3ded7ae5-76ab-480c-896f-dda1f14adb40",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Stage",
+    "aliases": [],
+    "x": 55.177111716621255,
+    "y": 38.256658595641646
+  },
+  {
+    "id": "e3c8560a-0430-4797-9c57-ed29bbcba492",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Tower stairs",
+    "aliases": [],
+    "x": 55.313351498637594,
+    "y": 28.329297820823246
+  },
+  {
+    "id": "6d6c076a-d766-4f07-b224-1bd57194739e",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "ada2b85b-d869-464f-ad17-b82fff7c6008",
+    "name": "Tower",
+    "aliases": [],
+    "x": 54.223433242506815,
+    "y": 32.20338983050847
+  },
+  {
+    "id": "d7e8c1ab-7906-4e3c-95e3-d1c0670cc3fd",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "Attic",
+    "aliases": [],
+    "x": 55.449591280653955,
+    "y": 42.615012106537534
+  },
+  {
+    "id": "8918f54f-a265-4f9c-9f3a-7c6071cfdc69",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "Low Attic",
+    "aliases": [],
+    "x": 52.86103542234333,
+    "y": 52.05811138014528
+  },
+  {
+    "id": "eb2281a0-3e49-4f53-9ddc-4b3aa3ac5362",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "Master",
+    "aliases": [],
+    "x": 55.63081214982265,
+    "y": 69.36485516993991
+  },
+  {
+    "id": "1ba0e2f4-0289-4736-8c95-18ca5950a7c9",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "Trophy",
+    "aliases": [],
+    "x": 56.11087516773006,
+    "y": 58.83235434789108
+  },
+  {
+    "id": "31330545-453e-469b-8844-f1efe53111ae",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "Walk in",
+    "aliases": [],
+    "x": 51.55086051587969,
+    "y": 72.3837049990534
+  },
+  {
+    "id": "4229ad05-eb06-478e-b359-eddc02dbeb35",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "White stairs",
+    "aliases": [],
+    "x": 44.084770952706684,
+    "y": 72.25084862012044
+  },
+  {
+    "id": "29308c82-6b99-4e5b-a992-b5cd83a8fe07",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "Dinner Roof",
+    "aliases": [],
+    "x": 37.422582538134066,
+    "y": 60.55948727401961
+  },
+  {
+    "id": "bbcb2018-8e12-4419-9444-b3f47a4d4f1f",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "office",
+    "aliases": [],
+    "x": 32.49814048582846,
+    "y": 58.83235434789108
+  },
+  {
+    "id": "65ae8e50-cb0d-4709-a6a2-34215e5c84fe",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "small tower",
+    "aliases": [],
+    "x": 26.911421715387817,
+    "y": 59.895205379354785
+  },
+  {
+    "id": "c9b1d1c5-6a96-43ea-8be0-c06def1e69b5",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "kids",
+    "aliases": [],
+    "x": 44.47869127579493,
+    "y": 53.78381194843844
+  },
+  {
+    "id": "06726e0e-77ae-444d-8dd4-a61bde61b076",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "dorm",
+    "aliases": [],
+    "x": 43.88065656735554,
+    "y": 64.14660950520964
+  },
+  {
+    "id": "cb80ad85-9864-4438-bfda-d576eaa84550",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "gaming*",
+    "aliases": [],
+    "x": 50.60854703729869,
+    "y": 67.48462602590035
+  },
+  {
+    "id": "130935f5-dcf1-4091-9edb-17b8081724be",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "Middle",
+    "aliases": [],
+    "x": 50.5994947541143,
+    "y": 60.16143710745092
+  },
+  {
+    "id": "8c4135c4-e288-427a-a608-daef74393014",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "Armory",
+    "aliases": [],
+    "x": 61.812645537352886,
+    "y": 65.47569226476949
+  },
+  {
+    "id": "f7aa8a6d-38f4-42a0-8956-a95bf15e6773",
+    "mapId": "6a5e05fc-5a08-41d7-af75-26da9a5d8d1b",
+    "floorId": "934b0bca-188e-445c-b227-fb3c004ecc18",
+    "name": "Armory Corridor",
+    "aliases": [],
+    "x": 59.0467350108207,
+    "y": 63.100884491342754
+  },
+  {
+    "id": "91b04e0f-7ef1-4141-a19c-244ee75ba8a3",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Prep",
+    "aliases": [],
+    "x": 59.57181109668886,
+    "y": 62.453007466341695
+  },
+  {
+    "id": "5710764e-19df-4a8d-afd9-475a5811f61c",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Bakery",
+    "aliases": [],
+    "x": 57.88512787916553,
+    "y": 57.723757763583926
+  },
+  {
+    "id": "eaf14a86-41e5-4ddc-b21b-643cbeffb3fc",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Small Bakery",
+    "aliases": [],
+    "x": 58.060093023417025,
+    "y": 52.120303063989304
+  },
+  {
+    "id": "700725a6-d4c5-413a-80b9-a3851351d14c",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Cooking",
+    "aliases": [],
+    "x": 61.58759541887571,
+    "y": 57.73343951273456
+  },
+  {
+    "id": "709c05c9-d501-4ebe-b388-0ac331e51081",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Service",
+    "aliases": [],
+    "x": 65.69446957405363,
+    "y": 57.79750991152554
+  },
+  {
+    "id": "4acc4e2e-6a49-4756-8fee-ea49f4ad1862",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Freezer",
+    "aliases": [],
+    "x": 66.59685390777561,
+    "y": 61.952688841116164
+  },
+  {
+    "id": "6838e16f-5360-4d4f-8bf5-a0d6b04bd7a2",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "white stairs",
+    "aliases": [],
+    "x": 69.83723401523184,
+    "y": 61.888618442325196
+  },
+  {
+    "id": "d8b37232-fa7f-46eb-83ae-909f06545659",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Garage",
+    "aliases": [],
+    "x": 69.34502437865622,
+    "y": 65.38771648829626
+  },
+  {
+    "id": "bb111095-9813-4741-aa73-aa0ac3c62c33",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "VIP Corridor",
+    "aliases": [],
+    "x": 68.2325857371378,
+    "y": 59.76575256238426
+  },
+  {
+    "id": "7e5b12b6-2e92-4492-8e55-656ee9c3f316",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "VIP",
+    "aliases": [],
+    "x": 69.99633693486713,
+    "y": 56.47652066711962
+  },
+  {
+    "id": "f3b0e756-81bd-4104-bcde-2774c4e7399b",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Restaurant",
+    "aliases": [],
+    "x": 69.49916033906825,
+    "y": 50.57179271454345
+  },
+  {
+    "id": "d239b69f-037b-463e-9691-9b64334a4a7b",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Bottom bar",
+    "aliases": [],
+    "x": 66.37686568153268,
+    "y": 52.75872899327536
+  },
+  {
+    "id": "51547939-967e-41e1-91dd-3430c74c8bc4",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Reception",
+    "aliases": [],
+    "x": 64.65413195351796,
+    "y": 49.259630947304295
+  },
+  {
+    "id": "7e3d4253-9070-44fd-b7d9-bbd4006ecd2f",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Coat",
+    "aliases": [],
+    "x": 62.649403121215144,
+    "y": 49.63323256158766
+  },
+  {
+    "id": "0c94547b-44b4-4e63-a307-861b781e1c43",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Bakery Corridor",
+    "aliases": [],
+    "x": 61.618999419125984,
+    "y": 53.360136469926644
+  },
+  {
+    "id": "ea23edff-f948-47c7-9435-95d677f9cdd7",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Red stairs",
+    "aliases": [],
+    "x": 60.839667494547896,
+    "y": 49.06798926558729
+  },
+  {
+    "id": "ee90b762-c0d3-40b6-a868-4294afa02f85",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Wood Stairs",
+    "aliases": [],
+    "x": 67.69471212060641,
+    "y": 48.26611263005226
+  },
+  {
+    "id": "b307a0b2-c4b0-4661-b87e-61bb3c1a27e2",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Bakery Roof",
+    "aliases": [],
+    "x": 58.01458926795235,
+    "y": 56.950072103516916
+  },
+  {
+    "id": "99bcb0d1-895f-4a77-a5b8-914e1c3035a9",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Train",
+    "aliases": [],
+    "x": 61.865264461904864,
+    "y": 60.531180259940434
+  },
+  {
+    "id": "8e4df5e6-c5ad-44e0-b4e6-14d62a0a71fc",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Fire place",
+    "aliases": [],
+    "x": 64.2551729707467,
+    "y": 62.57232078675688
+  },
+  {
+    "id": "f4c1e16d-fe8b-4fd6-960a-5852b299fde4",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Dining",
+    "aliases": [],
+    "x": 66.26502898676385,
+    "y": 62.3536271588837
+  },
+  {
+    "id": "fa3a2e34-8d29-4e75-a9cd-799a95604757",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "White stairs",
+    "aliases": [],
+    "x": 69.95660126108109,
+    "y": 62.28072928292596
+  },
+  {
+    "id": "8c5b2a3a-9cd2-4912-8b1d-06ed67b1fb01",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Laundry",
+    "aliases": [],
+    "x": 70.4077934279421,
+    "y": 59.073222740785816
+  },
+  {
+    "id": "b83cb901-0d3e-4653-81c4-f3c1ac800bf1",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Reading",
+    "aliases": [],
+    "x": 66.66446864300835,
+    "y": 55.71992044673021
+  },
+  {
+    "id": "e8f9f714-f5e5-49a0-85b1-b4e5269a5eac",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Reading Corridor",
+    "aliases": [],
+    "x": 65.89026390214458,
+    "y": 58.991497387661326
+  },
+  {
+    "id": "0ef261f1-e9b2-4a6e-b492-9ccfbe33ac8c",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Minning Corridor",
+    "aliases": [],
+    "x": 64.86995434299303,
+    "y": 55.84806124431216
+  },
+  {
+    "id": "a382c502-c019-4ff6-8f80-28425f8fc2ee",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Mining",
+    "aliases": [],
+    "x": 62.09166166779073,
+    "y": 55.357139610909314
+  },
+  {
+    "id": "946bae7e-0376-45c0-88f8-dca4427cc9e0",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Red Corridor",
+    "aliases": [],
+    "x": 62.17882379093433,
+    "y": 51.85804156493825
+  },
+  {
+    "id": "a4301573-48f9-471e-b136-20faa0dbf2b0",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Red stairs",
+    "aliases": [],
+    "x": 60.94829969949526,
+    "y": 48.20432028988496
+  },
+  {
+    "id": "ad2a1820-4778-4a21-9faa-9a4bf3db06b8",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Pillar",
+    "aliases": [],
+    "x": 66.08061059753906,
+    "y": 50.901541700321
+  },
+  {
+    "id": "c3935bb6-a77c-417c-bc70-c09172d44183",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Reading",
+    "aliases": [],
+    "x": 70.1054498132877,
+    "y": 54.61933337416526
+  },
+  {
+    "id": "8095165c-4603-40ef-9cec-0d1dfbfb9664",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Terrace",
+    "aliases": [],
+    "x": 72.77671252845337,
+    "y": 55.129618505869374
+  },
+  {
+    "id": "0e7c518b-7c11-46b7-b908-a14d6a47ab51",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "413d79a8-52e8-4fd4-9172-c4d00994fdda",
+    "name": "Wood stairs",
+    "aliases": [],
+    "x": 67.52118899677458,
+    "y": 48.07788803627078
+  },
+  {
+    "id": "5d5cea05-12d9-480c-beac-6bf6c2a66fa7",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Red stairs",
+    "aliases": [],
+    "x": 61.20962584443499,
+    "y": 51.495260729117355
+  },
+  {
+    "id": "13d7cb94-8ed6-49ea-ba3b-dfaae1c1944f",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Cigar",
+    "aliases": [],
+    "x": 63.58863908788387,
+    "y": 54.47553092354551
+  },
+  {
+    "id": "9677f492-060d-4cfe-bbca-c366e189d84a",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Piano",
+    "aliases": [],
+    "x": 62.410027731552375,
+    "y": 60.59895250399489
+  },
+  {
+    "id": "efea26e9-df7f-4cfb-bfc0-ae2ee41486a0",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Bathroom",
+    "aliases": [],
+    "x": 66.4297397635867,
+    "y": 61.40994137402463
+  },
+  {
+    "id": "9ab67a13-30e3-447c-bc7a-5a2cd668e014",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Bar freezer",
+    "aliases": [],
+    "x": 68.11145602188677,
+    "y": 61.19124774615143
+  },
+  {
+    "id": "b88d5f2e-1703-470a-ab5d-0f613a2e96b9",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Storage",
+    "aliases": [],
+    "x": 67.2141988718791,
+    "y": 57.75622009897135
+  },
+  {
+    "id": "f70d1ef6-f8c1-45ea-b58b-125f741f55a9",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Bar",
+    "aliases": [],
+    "x": 66.96809405359129,
+    "y": 53.828562274420655
+  },
+  {
+    "id": "ad40a6fa-a7ac-4c07-a852-ee536194fdf8",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Cigar balcony",
+    "aliases": [],
+    "x": 63.64567900670578,
+    "y": 48.88061894378969
+  },
+  {
+    "id": "efb56830-cf2b-4701-8d53-e1111fb45a08",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "White corridor",
+    "aliases": [],
+    "x": 67.45533673094366,
+    "y": 64.26207077087085
+  },
+  {
+    "id": "dcc9aa39-192b-4b17-ba7d-2992a5abfe43",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Cocktail entrance",
+    "aliases": [],
+    "x": 69.46519274696081,
+    "y": 59.66950458553381
+  },
+  {
+    "id": "f45c6c8e-5a42-4d3d-9031-5fca672aad26",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Cocktail",
+    "aliases": [],
+    "x": 70.94182165668771,
+    "y": 55.22273415211225
+  },
+  {
+    "id": "d9fcdf08-309e-4547-ad60-b18adf900f14",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Cocktail Balcony",
+    "aliases": [],
+    "x": 70.44961202011207,
+    "y": 49.31800619953607
+  },
+  {
+    "id": "7fab4266-fd12-41a9-a441-8ed29002f2b6",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "White stairs",
+    "aliases": [],
+    "x": 70.73673430811453,
+    "y": 63.605989887251255
+  },
+  {
+    "id": "a5705457-7a11-433d-b5e0-4f60135f23cf",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "5d94f7fd-72be-46ce-984a-f08d830ddae7",
+    "name": "Wood stairs",
+    "aliases": [],
+    "x": 67.13232415694091,
+    "y": 48.37944604658029
+  },
+  {
+    "id": "32449c46-2a17-4fad-bfcf-7fb3e5d0119c",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Dock",
+    "aliases": [],
+    "x": 65.01181899238287,
+    "y": 29.7343904837509
+  },
+  {
+    "id": "a1cab376-0350-4761-bdb9-84e69579b44a",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Market",
+    "aliases": [],
+    "x": 46.42884114320901,
+    "y": 55.89275139437081
+  },
+  {
+    "id": "0d3e44a4-2153-4c71-b1cc-724bb6480cb1",
+    "mapId": "b5d34610-10b2-4c5c-9a69-26729becbea2",
+    "floorId": "46c8b3e8-e5a0-4c8d-baa5-4bdc78f3b68a",
+    "name": "Park",
+    "aliases": [],
+    "x": 67.18859122821763,
+    "y": 81.86206694008747
+  },
+  {
+    "id": "5060da43-1acd-4cd5-9077-52db27e25d79",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Customs",
+    "aliases": [],
+    "x": 42.234332425068125,
+    "y": 67.55447941888619
+  },
+  {
+    "id": "c6364aa2-6e50-4fcf-b413-f97e638781f2",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Detention",
+    "aliases": [],
+    "x": 32.15258855585831,
+    "y": 71.1864406779661
+  },
+  {
+    "id": "daefc7d5-532c-496c-bab3-83953c402cc3",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Supply Corridor",
+    "aliases": [],
+    "x": 32.15258855585831,
+    "y": 64.64891041162227
+  },
+  {
+    "id": "8b20eb9b-b308-403f-9e23-1ea3b2c85482",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Supply",
+    "aliases": [],
+    "x": 32.561307901907355,
+    "y": 52.300242130750604
+  },
+  {
+    "id": "695dad56-dbb3-4944-a969-0517eeca65bc",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Passport",
+    "aliases": [],
+    "x": 52.31607629427793,
+    "y": 63.19612590799032
+  },
+  {
+    "id": "39317bed-0852-4561-a710-bd76f864cb81",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Customs Desk",
+    "aliases": [],
+    "x": 41.55313351498637,
+    "y": 54.23728813559322
+  },
+  {
+    "id": "5332dac3-1667-4227-8e19-dc6253fa39dd",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Main Stairs",
+    "aliases": [],
+    "x": 41.689373297002724,
+    "y": 44.794188861985475
+  },
+  {
+    "id": "22109d6e-1587-489b-a66d-69d0f838ed9f",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Waiting",
+    "aliases": [],
+    "x": 61.444141689373296,
+    "y": 66.10169491525424
+  },
+  {
+    "id": "86fe546f-07c0-4f38-9be6-aa99f9f4bd4f",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "East Stairs",
+    "aliases": [],
+    "x": 70.29972752043598,
+    "y": 67.55447941888619
+  },
+  {
+    "id": "05de9408-11ab-46d8-8d57-7240c34e7a49",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Tellers",
+    "aliases": [],
+    "x": 63.76021798365122,
+    "y": 49.39467312348668
+  },
+  {
+    "id": "7185f5b5-3f1d-4774-8a95-0d968e2a1404",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Lobby",
+    "aliases": [],
+    "x": 54.08719346049047,
+    "y": 52.05811138014528
+  },
+  {
+    "id": "b35f4d3c-2017-4b81-a4c8-73aaa329d142",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Bathroom Hallway",
+    "aliases": [],
+    "x": 58.17438692098092,
+    "y": 45.76271186440678
+  },
+  {
+    "id": "8b653b6b-ab02-49e5-b2a7-568918e8d687",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Bathroom",
+    "aliases": [],
+    "x": 61.71662125340599,
+    "y": 28.087167070217916
+  },
+  {
+    "id": "89f73f86-8c60-413d-bc70-60bb63aaf48f",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Workshop",
+    "aliases": [],
+    "x": 51.22615803814714,
+    "y": 32.92978208232446
+  },
+  {
+    "id": "239fa8fb-b9b4-4fd9-8fc8-82ef4ab94732",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Server",
+    "aliases": [],
+    "x": 43.18801089918256,
+    "y": 29.297820823244553
+  },
+  {
+    "id": "a9c8663a-5ea9-4a7b-9f30-0e49040939a7",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Ventilation hallway",
+    "aliases": [],
+    "x": 35.694822888283376,
+    "y": 38.49878934624697
+  },
+  {
+    "id": "05a6d37d-8b83-44b0-ba84-0c96868c9065",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "7469f363-6a27-4e64-b592-114fc3d6ab81",
+    "name": "Ventilation",
+    "aliases": [],
+    "x": 35.42234332425068,
+    "y": 27.11864406779661
+  },
+  {
+    "id": "f00321a0-7bdd-45be-8a84-b3f6bd3b7850",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Armory",
+    "aliases": [],
+    "x": 37.19346049046322,
+    "y": 27.36077481840194
+  },
+  {
+    "id": "c74e35c0-9480-48c2-9c48-b939023c432e",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Sandwich",
+    "aliases": [],
+    "x": 41.008174386920984,
+    "y": 21.791767554479417
+  },
+  {
+    "id": "ce22b63d-fba6-452f-af0f-2233cfba62e2",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Armory desk",
+    "aliases": [],
+    "x": 41.82561307901908,
+    "y": 36.56174334140436
+  },
+  {
+    "id": "20abe653-7f0c-4211-9c35-790f42bcfaf1",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "West balcony",
+    "aliases": [],
+    "x": 33.92370572207085,
+    "y": 45.27845036319613
+  },
+  {
+    "id": "3a115391-93f8-4802-827e-ee56d89bd4fe",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "CCTV",
+    "aliases": [],
+    "x": 39.6457765667575,
+    "y": 64.64891041162227
+  },
+  {
+    "id": "af9a1a51-e3e9-4fb8-89c0-7fbcb6fb2d80",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Red Hallway",
+    "aliases": [],
+    "x": 49.4550408719346,
+    "y": 55.44794188861986
+  },
+  {
+    "id": "3ec885e5-4a49-4978-a74f-deb1a5ead582",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Fountain",
+    "aliases": [],
+    "x": 52.86103542234333,
+    "y": 46.973365617433416
+  },
+  {
+    "id": "44560f59-4bfe-4a74-bff0-3e1b467a503d",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Cafeteria",
+    "aliases": [],
+    "x": 50.817438692098094,
+    "y": 69.49152542372882
+  },
+  {
+    "id": "8c9a8af2-cc7b-491b-a0c3-a783da0ce085",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Waiting Balcony",
+    "aliases": [],
+    "x": 61.444141689373296,
+    "y": 73.8498789346247
+  },
+  {
+    "id": "15a23bcb-e409-4603-88be-506ae71a0d14",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Red Hallway",
+    "aliases": [],
+    "x": 63.21525885558583,
+    "y": 56.17433414043583
+  },
+  {
+    "id": "5011e34a-330a-408d-8fc5-9cc4f98a95bd",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "East stairs",
+    "aliases": [],
+    "x": 70.98092643051771,
+    "y": 64.40677966101694
+  },
+  {
+    "id": "416d1b42-1c89-49d2-9323-df1fea2afd9d",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Office",
+    "aliases": [],
+    "x": 63.21525885558583,
+    "y": 47.94188861985472
+  },
+  {
+    "id": "1eb44248-e388-4313-a69c-0efa8775c680",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Office Hallway",
+    "aliases": [],
+    "x": 53.54223433242507,
+    "y": 37.77239709443099
+  },
+  {
+    "id": "71c1a7ca-4cf4-4484-a25d-66274b588d1b",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "East balcony",
+    "aliases": [],
+    "x": 68.66485013623979,
+    "y": 22.518159806295397
+  },
+  {
+    "id": "11ba3ef8-b697-4dd8-925c-2f99f1a83640",
+    "mapId": "174ddcb2-145c-4e7b-9b36-300b72a9f42a",
+    "floorId": "212b63b7-1bf7-4d21-8340-e52da6f8f317",
+    "name": "Archives",
+    "aliases": [],
+    "x": 53.81471389645777,
+    "y": 27.602905569007262
+  }
+]

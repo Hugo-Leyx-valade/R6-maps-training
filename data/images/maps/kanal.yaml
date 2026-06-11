@@ -1,0 +1,18 @@
+slug: kanal
+name: Kanal
+blueprints:
+  - name: Ground
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/12AFRlw25YNm0BEDDFZRwb/72a48c1e6db493c793aed9848d1ddc48/r6-maps-kanal-blueprint-1.jpg
+  - name: Ground 2
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/fgm0tsyQwkBpzZflik2vS/3fee4162d712b61b5d3b65c3925153f3/r6-maps-kanal-blueprint-2.jpg
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/75B6AY7oIV1rshuQ3cZqUB/2f544df93573cd1871c8ff2a23c399d2/r6-maps-kanal-blueprint-3.jpg
+  - name: 2nd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/XVYbcmygF5gMVpjohY4e9/ff2eea5e48ee48d193fff62373421652/r6-maps-kanal-blueprint-4.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3ywuHVnMQcfwRVDyDRzrYf/60d773df74b232ebedea7d86969e9381/r6-maps-kanal-blueprint-5.jpg

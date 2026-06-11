@@ -1,0 +1,15 @@
+slug: chalet
+name: Chalet
+blueprints:
+  - name: Basement
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/55eH3asFElZrkQdK1WmPyY/583fdef645e3bf497b0e95ea25e50bb0/r6-maps-chalet-blueprint-1.jpg
+  - name: Ground
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1qLSejhKPmyxbRyzDvSjMF/d4b547dba92db0a7b9dbf9e533159db6/r6-maps-chalet-blueprint-2.jpg
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6Zrwl833U738T3GCsWyH5O/b795a4fa369d5ce5ee9a92064c5faec3/r6-maps-chalet-blueprint-3.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6zyfk9G5oTn9iGjKmKqzEc/2fe9ed710db46bac51213373df14e4db/r6-maps-chalet-blueprint-4.jpg

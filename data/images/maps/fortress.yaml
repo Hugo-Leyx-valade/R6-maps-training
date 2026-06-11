@@ -1,0 +1,12 @@
+slug: fortress
+name: Fortress
+blueprints:
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6Hb48Dou0oV4KBEU0yeXQz/bcfc52b3a4f32940d58d25837573bb38/r6-maps-fortress-blueprint-1.jpg
+  - name: 2nd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5JzPtRP2tfM0bg7zt5zO5a/05406d9047812f1859deead10edc4a60/r6-maps-fortress-blueprint-2.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1tYeGLAoVOntIFoy2k6ray/d11943721c810c9077489585d32c4491/r6-maps-fortress-blueprint-3.jpg

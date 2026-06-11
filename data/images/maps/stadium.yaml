@@ -1,0 +1,15 @@
+slug: stadium
+name: Stadium
+blueprints:
+  - name: Ground
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/76OaniMzGu6KEtVhXm9wy2/a4d3a6c0bf74eb732e24b7b4b0fad6d7/r6-maps-stadium-blueprint-1.jpg
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2zCcozHHugdNdRp6RqMEV0/b117bfaffe549b7bc7c097e4cca49fd2/r6-maps-stadium-blueprint-2.jpg
+  - name: 2nd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3M4bfthbgI39M09goX3VjB/4ab4cc44e90aeb5ce84dea0e7b2d5c92/r6-maps-stadium-blueprint-3.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6yURdPWPtw13kzrOucfqxD/4a5b8463969198c8e7bc9854d479e4ca/r6-maps-stadium-blueprint-4.jpg

@@ -1,0 +1,18 @@
+slug: hereford-base
+name: Hereford Base
+blueprints:
+  - name: Basement
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2gVZDx0OOit8E6f1OnTJ4B/37e1b8ce2dc69e5b437b56d82f62cf40/r6-maps-hereford-blueprint-1.jpg
+  - name: Ground
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/qSEd5QKHT4EayRNx01EIH/42ffbe37e0dfc9074aed2e1e56eabb4c/r6-maps-hereford-blueprint-2.jpg
+  - name: 2nd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4rSxlBeEzZeGuuFFN1DilX/d5d56912aa426006e7ca70e7376f9292/r6-maps-hereford-blueprint-3.jpg
+  - name: 3rd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4q3OqSBy1Dx226IhrOwc7C/9db8a80e8b7ecadfa0c0627ef6f1477c/r6-maps-hereford-blueprint-4.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4YF2arYsJ0ij57YqCnkGcB/56a62434864d8b165f1868b353dd341c/r6-maps-hereford-blueprint-5.jpg

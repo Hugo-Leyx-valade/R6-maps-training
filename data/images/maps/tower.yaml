@@ -1,0 +1,12 @@
+slug: tower
+name: Tower
+blueprints:
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/TejCB29nG2m5LvmVmuEh2/2c41972d997f60f9a49ee9b57cfe2535/r6-maps-tower-blueprint-2.jpg
+  - name: 2nd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1iVDH4ysZtTKRkLpVLjUoP/816b51f7c7246fc48a907378181046b9/r6-maps-tower-blueprint-3.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4zhuj3IrD7U4ExDutn6ErU/9d7350ae3163c9271f253c2c01b57629/r6-maps-tower-blueprint-4.jpg

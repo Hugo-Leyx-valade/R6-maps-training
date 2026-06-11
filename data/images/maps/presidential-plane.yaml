@@ -1,0 +1,15 @@
+slug: presidential-plane
+name: Presidential Plane
+blueprints:
+  - name: 1st Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/20j7FImvC3h1EPmq0aEpts/cb593ba8c851f3efbe1ad8165cd81f26/r6-maps-plane-blueprint-1.jpg
+  - name: 2nd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6JKpfo5nVlD9ezsSBaCr9X/652e72e3e60fe459ed97e3daf2eb98d9/r6-maps-plane-blueprint-2.jpg
+  - name: 3rd Floor
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/8EnE7KBVagdr2ao1OyBI3/2820b85d11b4bfcc963b8e6625ac27a9/r6-maps-plane-blueprint-3.jpg
+  - name: Roof
+    url: >-
+      https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/47cMCUWnkRlDGrpCdHGvTb/7046b455dcb3fe270ae7267a98f9d7c9/r6-maps-plane-blueprint-4.jpg
