@@ -1,24 +1,24 @@
 # R6 GUESSr
 
-Entraîne-toi à reconnaître les **calls** et les **caméras** des maps de Rainbow Six Siege. Tu vois un point sur la map, tu dois trouver le call correspondant — en QCM, en saisie libre ou en mode caméras.
+Train yourself to recognize **calls** and **cameras** on Rainbow Six Siege maps. A point appears on the map — identify the call or camera position before the timer runs out.
 
-![Aperçu de l'application](https://placehold.co/800x400/16213e/e8a020?text=R6+GUESSr)
-
----
-
-## Fonctionnalités
-
-- **Mode QCM** — choisis le bon call parmi 4 propositions
-- **Mode Écrire** — tape le call depuis ta mémoire (aliases acceptés)
-- **Mode Caméras** — retrouve la position des caméras sur le plan
-- **Interface admin** — ajoute tes propres maps, étages, calls et caméras
-- **PWA** — installable sur mobile et desktop, fonctionne hors-ligne
+![App preview](https://placehold.co/800x400/16213e/e8a020?text=R6+GUESSr)
 
 ---
 
-## Lancer le projet
+## Features
 
-### Prérequis
+- **Multiple choice** — pick the right call from 4 options
+- **Type mode** — type the call from memory (aliases accepted)
+- **Camera mode** — locate cameras on the floor plan
+- **Admin panel** — add your own maps, floors, calls and cameras
+- **PWA** — installable on mobile and desktop, works offline
+
+---
+
+## Getting started
+
+### Requirements
 
 - [Node.js](https://nodejs.org/) v18+
 
@@ -30,13 +30,13 @@ cd R6-maps-training
 npm install
 ```
 
-### Développement
+### Development
 
 ```bash
 npm run dev
 ```
 
-Ouvre [http://localhost:5173](http://localhost:5173). Le serveur Express (API + données) tourne sur le port 3000, Vite proxie automatiquement les requêtes `/api`.
+Open [http://localhost:5173](http://localhost:5173). The Express server (API + data) runs on port 3000, Vite proxies `/api` requests automatically.
 
 ### Production
 
@@ -45,49 +45,49 @@ npm run build
 npm start
 ```
 
-Le serveur Express sert directement le build et expose l'API sur le port 3000.
+Express serves the built frontend and exposes the API on port 3000.
 
 ---
 
-## Utilisation
+## Usage
 
-### Jouer
+### Playing
 
-1. Sur la page d'accueil, **sélectionne une map**
-2. Choisis un **mode de jeu** (QCM, Écrire, Caméras)
-3. Clique sur **Commencer**
-4. Un point apparaît sur le plan — identifie le call ou la caméra
+1. On the home page, **select a map**
+2. Choose a **game mode** (Multiple choice, Type, Cameras)
+3. Click **Start**
+4. A point appears on the floor plan — identify the call or camera
 
-### Interface admin
+### Admin panel
 
-Accessible via le bouton **Admin** ou directement sur `/admin`.
+Accessible via the **Admin** button or directly at `/admin`.
 
-- **Ajouter une map** — nom + image(s) de l'étage (floor)
-- **Ajouter des calls** — clique sur la carte pour placer un call, renseigne son nom et ses aliases
-- **Ajouter des caméras** — même principe, en mode caméra
-
----
-
-## Contribuer
-
-Les contributions sont les bienvenues ! Voici comment procéder :
-
-1. Forke le dépôt
-2. Crée une branche depuis `main` : `git checkout -b feat/nom-de-ta-feature`
-3. Fais tes modifications et commit : `git commit -m "feat : description"`
-4. Ouvre une **Pull Request** vers `main`
-
-> Toutes les PRs doivent être approuvées avant d'être mergées.
+- **Add a map** — name + floor image(s)
+- **Add calls** — click on the map to place a call, set its name and aliases
+- **Add cameras** — same flow, in camera mode
 
 ---
 
-## Stack technique
+## Contributing
 
-| Couche | Technologie |
+Contributions are welcome! Here's how:
+
+1. Fork the repository
+2. Create a branch from `main`: `git checkout -b feat/your-feature-name`
+3. Commit your changes: `git commit -m "feat: description"`
+4. Open a **Pull Request** targeting `main`
+
+> All PRs must be approved before merging.
+
+---
+
+## Tech stack
+
+| Layer | Technology |
 |---|---|
 | Frontend | React 19 + TypeScript + Vite |
 | Styles | Tailwind CSS v4 |
 | Routing | React Router v7 |
-| Backend | Express 5 (API REST + upload images) |
-| Données | Fichiers YAML locaux |
+| Backend | Express 5 (REST API + image upload) |
+| Data | Local YAML files |
 | PWA | vite-plugin-pwa + Workbox |
